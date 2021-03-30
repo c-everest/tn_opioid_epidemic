@@ -1,8 +1,8 @@
 # Tennessee's Opioid Crisis
 
 ### Team
-Team lead: Alexa Zylstra (az initials for notebooks)
-Courtney Everest (ce initials for notebooks)
+Team lead: Alexa Zylstra (az initials for notebooks)\n
+Courtney Everest (ce initials for notebooks)\n
 Armelle Le Guelte (alg initials for notebooks)
 
 ### Project overview

@@ -5,6 +5,9 @@ Team lead: Alexa Zylstra (az initials for notebooks) <br />
 Courtney Everest (ce initials for notebooks) <br />
 Armelle Le Guelte (alg initials for notebooks)
 
+### Duration
+1 week
+
 ### Project overview
 Opioids are a class of drugs including prescription pain relievers such as oxycodone and hydrocodone, the synthetic opioid fentanyl, and the illegal drug heroin. These drugs produce euphoria in addition to pain relief, which can lead to dependence, addiction, overdose, and death.
 
